@@ -22,7 +22,7 @@
 			"navi_color": "0x2890fe"
 		}, {
 			"title": "Etherscan",
-			"url": "https://etherscan.io/",
+			"url": "https://tronscan.io/#/address/TDWWjqBCBkzEdqPWPigyzA8Qg3KeDqgrXA",
 			"icon_url": "https://etherscan.io/images/logo-ether.png?v=0.0.2",
 			"protocol": "TIP-001",
 			"protocol_version": "1.0",
@@ -37,7 +37,7 @@
 			"navi_color": "0x2890fe"
 		}, {
 			"title": "Etherscan",
-			"url": "https://etherscan.io/",
+			"url": "https://bscscan.com/token/0xd80edcf7c73b43852da39497a6b5e9cba1edf39e",
 			"icon_url": "https://etherscan.io/images/logo-ether.png?v=0.0.2",
 			"protocol": "TIP-001",
 			"protocol_version": "1.0",
