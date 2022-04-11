@@ -7,7 +7,7 @@
 	"dapp_list": [
  {
 			"title": "Etherscan_new",
-			"url": "https://etherscan.io//",
+			"url": "https://etherscan.io/address/0xFd80c819c71FbD4916E51CEae55bD55C3F5133eB",
 			"icon_url": "https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1631081995620.png",
 			"protocol": "TIP-001",
 			"protocol_version": "1.0",
