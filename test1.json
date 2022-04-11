@@ -1,0 +1,55 @@
+{
+	"protocol":"TIP-001",
+	"name": "NFT List",
+	"logo_uri": "https:https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+	"timestamp": "2021-05-27T20:37:00.000+00:00",
+	"version": 1.0,
+	"dapp_list": [
+		{
+			"title": "Etherscan",
+			"url": "https://etherscan.io/",
+			"icon_url": "https://etherscan.io/images/logo-ether.png?v=0.0.2",
+			"protocol": "TIP-001",
+			"protocol_version": "1.0",
+			"chain_list": [{
+				"network": "ethereum",
+				"chain_id": "1"
+			}],
+			"desc": "Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform",
+			"full_screen": 0,
+			"hori_vert": 0,
+			"title_color": "0xffffff",
+			"navi_color": "0x2890fe"
+		}, {
+			"title": "Etherscan",
+			"url": "https://etherscan.io/",
+			"icon_url": "https://etherscan.io/images/logo-ether.png?v=0.0.2",
+			"protocol": "TIP-001",
+			"protocol_version": "1.0",
+			"chain_list": [{
+				"network": "ethereum",
+				"chain_id": "1"
+			}],
+			"desc": "Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform",
+			"full_screen": 0,
+			"hori_vert": 0,
+			"title_color": "0xffffff",
+			"navi_color": "0x2890fe"
+		}, {
+			"title": "Etherscan",
+			"url": "https://etherscan.io/",
+			"icon_url": "https://etherscan.io/images/logo-ether.png?v=0.0.2",
+			"protocol": "TIP-001",
+			"protocol_version": "1.0",
+			"chain_list": [{
+				"network": "ethereum",
+				"chain_id": "1"
+			}],
+			"desc": "Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform",
+			"full_screen": 0,
+			"hori_vert": 0,
+			"title_color": "0xffffff",
+			"navi_color": "0x2890fe"
+		}
+	]
+}
