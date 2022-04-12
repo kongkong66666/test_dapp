@@ -1,0 +1,55 @@
+{
+  "name": "myself Token List",
+  "timestamp": "2022-04-13T15:28:55.147Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 27
+  },
+  "tags": {},
+  "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "4INT(matic)",
+      "address": "0x5CEeBB0947d58Fabde2fc026Ffe4B33ccFE1bA8B",
+      "symbol": "4INT",
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://polygonscan.com/token/images/forintfinance_32.png"
+    }, 
+        {
+      "chainId": 1,
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "ANT",
+      "name": "Aragon ANT (old)(eth)",
+      "decimals": 18,
+      "tags": ["defi"]
+    },  {
+      "name": "OneBit(bsc)",
+      "symbol": "$1BIT",
+      "address": "0x97A266490eFA4Fb564aD625AcCabE5641de2f805",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14416.png"
+    },   {
+      "chainId": 43114(avax),
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+      "name": "Wrapped Matic(matic test)",
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+    ]
+}
