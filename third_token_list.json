@@ -16,40 +16,41 @@
     {
       "name": "4INT(matic)",
       "address": "0x5CEeBB0947d58Fabde2fc026Ffe4B33ccFE1bA8B",
-      "symbol": "4INT",
+      "symbol": "4INT(matic)",
       "decimals": 9,
       "chainId": 137,
-      "logoURI": "https://polygonscan.com/token/images/forintfinance_32.png"
+      "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png"
     }, 
         {
       "chainId": 1,
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT",
+      "symbol": "ANT(eth)",
       "name": "Aragon ANT (old)(eth)",
       "decimals": 18,
-      "tags": ["defi"]
+      "tags": ["defi"],
+      "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png"
     },  {
       "name": "OneBit(bsc)",
-      "symbol": "$1BIT",
+      "symbol": "$1BIT(bsc)",
       "address": "0x97A266490eFA4Fb564aD625AcCabE5641de2f805",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14416.png"
-    },   {
+      "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png"
+    },  {
       "chainId": 43114,
-      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
       "decimals": 18,
-      "name": "Pangolin(avax)",
-      "symbol": "PNG",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+      "name": "JPY Coin(avax)",
+      "symbol": "JPYC(avax)",
+      "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png"
     },
     {
       "name": "Wrapped Matic(matic test)",
       "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
-      "symbol": "WMATIC",
+      "symbol": "WMATIC(matic test)",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+      "logoURI": "https://tp-upload.cdn.bcebos.com/news/tokenpocket-1631086444750.png"
     }
     ]
 }
